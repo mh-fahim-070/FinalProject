@@ -2,11 +2,11 @@
 
 ---
 
-# TracPro 🗂️
+# project-tracking-system 🗂️
 
 *A Project Management & Collaboration System*
 
-TracPro is a **Java-based desktop application** designed to help teams manage **projects, tasks, calendars, and real-time communication** in one place.
+It   is a **Java-based desktop application** designed to help teams manage **projects, tasks, calendars, and real-time communication** in one place.
 It combines **task tracking**, **Kanban-style workflow**, **calendar scheduling**, and **chat functionality** with a graphical user interface.
 
 ---
